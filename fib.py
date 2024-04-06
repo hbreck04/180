@@ -12,3 +12,4 @@ print("Fibonacci sequence:")
 for i in range(n):
     print(fibonacci(i))
     print ("Go Yankees")
+    print ("Go Yankees")
